@@ -1,0 +1,17 @@
+div h2{
+    color: red;
+}
+footer p{
+    color: yellow;
+}
+a:hover{
+    color: black;
+    background-color: blueviolet;
+
+}
+a:active{
+    background-color: aqua;
+}
+a:visited{
+    background-color: black;
+}
