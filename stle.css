@@ -45,7 +45,10 @@ nav ul li a:hover {
 .b {
   font-size: 40px;
   margin-left: 247px;
-  font-family:'Segoe UI';
+  font-family: "Segoe UI";
+}
+.link {
+  font-size: 20px;
 }
 .namaku {
   display: block;
@@ -56,14 +59,13 @@ nav ul li a:hover {
 table,
 tr,
 td {
- 
   background-color: yellow;
   color: black;
   border: 1px solid black;
   padding: 5px;
   border-collapse: collapse;
 }
-tr td b{
+tr td b {
   background-color: yellow;
 }
 .posisi {
@@ -77,14 +79,13 @@ tr td b{
   top: 0;
   right: 0;
 }
-footer p{
+footer p {
   color: yellow;
   text-align: center;
   height: 50%;
   border: 25px solid black;
   margin: 2px;
   background-color: black;
-    
 }
 /* .auto p{
   display: block;
